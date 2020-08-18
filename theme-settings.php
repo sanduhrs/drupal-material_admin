@@ -4,14 +4,11 @@
  * @file
  * Add custom theme settings to Material Admin.
  */
-
 /**
  * Implements hook_form_FORM_ID_alter().
  *
- * @param $form
- *   The form.
- * @param $form_state
- *   The form state.
+ * @param $form   The form.
+ * @param $form_state   The form state.
  */
 function material_admin_form_system_theme_settings_alter(&$form, $form_state) {
   $form['theme_ui_options'] = array(

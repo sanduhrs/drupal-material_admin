@@ -1,0 +1,12 @@
+{
+    "name": "drupal/material_admin",
+    "description": "Material Design Admin Theme",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/material_admin",
+    "license": "GPL-2.0+",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/material_admin",
+      "source": "https://www.drupal.org/project/material_admin"
+    }
+  }
+  

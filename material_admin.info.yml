@@ -1,7 +1,7 @@
 name: Material Admin
 type: theme
 description: 'Material Design Admin Theme'
-core: 8.x
+core_version_requirement: ^8 || ^9
 base theme: classy
 
 # Image appears on admin/appearance
